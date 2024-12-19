@@ -18,7 +18,7 @@ namespace Event.Models
         [ForeignKey("Category")]
         public int id_category { get; set; }
         public int max_amount { get; set; }
-        public Image image { get; set; }
+        public string image { get; set; }
 
     }
 }

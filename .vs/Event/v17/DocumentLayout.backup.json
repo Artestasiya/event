@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "E:\\Event\\Event\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A1119B7D-F71C-4B14-AE88-CF282D6810D6}|Event\\Event.csproj|e:\\event\\event\\event\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1119B7D-F71C-4B14-AE88-CF282D6810D6}|Event\\Event.csproj|solutionrelative:event\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1119B7D-F71C-4B14-AE88-CF282D6810D6}|Event\\Event.csproj|e:\\event\\event\\event\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1119B7D-F71C-4B14-AE88-CF282D6810D6}|Event\\Event.csproj|solutionrelative:event\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1119B7D-F71C-4B14-AE88-CF282D6810D6}|Event\\Event.csproj|e:\\event\\event\\event\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1119B7D-F71C-4B14-AE88-CF282D6810D6}|Event\\Event.csproj|solutionrelative:event\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1119B7D-F71C-4B14-AE88-CF282D6810D6}|Event\\Event.csproj|e:\\event\\event\\event\\models\\loggin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1119B7D-F71C-4B14-AE88-CF282D6810D6}|Event\\Event.csproj|solutionrelative:event\\models\\loggin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1119B7D-F71C-4B14-AE88-CF282D6810D6}|Event\\Event.csproj|e:\\event\\event\\event\\models\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1119B7D-F71C-4B14-AE88-CF282D6810D6}|Event\\Event.csproj|solutionrelative:event\\models\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1119B7D-F71C-4B14-AE88-CF282D6810D6}|Event\\Event.csproj|e:\\event\\event\\event\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1119B7D-F71C-4B14-AE88-CF282D6810D6}|Event\\Event.csproj|solutionrelative:event\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,16 +50,76 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loggin.cs",
+              "DocumentMoniker": "E:\\Event\\Event\\Event\\Models\\Loggin.cs",
+              "RelativeDocumentMoniker": "Event\\Models\\Loggin.cs",
+              "ToolTip": "E:\\Event\\Event\\Event\\Models\\Loggin.cs",
+              "RelativeToolTip": "Event\\Models\\Loggin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:23:11.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Events.cs",
+              "DocumentMoniker": "E:\\Event\\Event\\Event\\Models\\Events.cs",
+              "RelativeDocumentMoniker": "Event\\Models\\Events.cs",
+              "ToolTip": "E:\\Event\\Event\\Event\\Models\\Events.cs",
+              "RelativeToolTip": "Event\\Models\\Events.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:21:28.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Event\\Event\\Event\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Event\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Event\\Event\\Event\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Event\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:06:32.222Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Event\\Event\\Event\\appsettings.json",
+              "RelativeDocumentMoniker": "Event\\appsettings.json",
+              "ToolTip": "E:\\Event\\Event\\Event\\appsettings.json",
+              "RelativeToolTip": "Event\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T09:03:04.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Event\\Event\\Event\\Program.cs",
               "RelativeDocumentMoniker": "Event\\Program.cs",
               "ToolTip": "E:\\Event\\Event\\Event\\Program.cs",
               "RelativeToolTip": "Event\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T21:07:55.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T21:07:55.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Event\\Event\\Event\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Event\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Event\\Event\\Event\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Event\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T08:50:04.168Z"
             }
           ]
         }
